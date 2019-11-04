@@ -14,10 +14,17 @@
 
 ## Culture-Portal   
   
-> **A small cultural portal about Belarusian directors made by a team with my friends. Made using React, gatsby, bootstrap and LESS.**  
+> **A cultural portal about Belarusian directors made by a team with my friends. Made using React, gatsby, bootstrap and LESS.**  
 >  
 >![CulturePortalScreen](./screens/CulturePortalScreen.png)  
 > - **[Link to repository](https://github.com/Stassras/Culture-portal)**  
+
+## Todo-list   
+  
+> **Simple TodoList developed on React and Bootstrap + ES6 / ES7**  
+>  
+>![TodoListScreen](./screens/TodoListScreen.png)  
+> - **[Link to repository](https://github.com/Stassras/Todo-list)**  
 
 ## Youtube-search   
   
