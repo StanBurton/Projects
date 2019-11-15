@@ -39,3 +39,12 @@
 >  
 >![SimpleChatScreen](./screens/SimpleChatScreen.png)  
 > - **[Link to repository](https://github.com/Stassras/Simple-chat)**
+  
+## Different test items from IT companies.  
+  
+> **Here you can look at the different technologies and functionality of the application on the stack.**  
+>  
+> - **[Test 1](https://github.com/Stassras/on-travel-test)**
+> - **[Test 2](https://github.com/Stassras/softcorp-test)**
+> - **[Test 3](https://github.com/Stassras/mr-test)**
+
