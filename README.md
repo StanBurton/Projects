@@ -42,7 +42,7 @@
   
 ## Different test items from IT companies.  
   
-> **Here you can look at the different technologies and functionality of the application on the stack.**  
+> **Here you can see different applications on different technologies with different functionalities**  
 >  
 > - **[Test 1](https://github.com/Stassras/on-travel-test)**
 > - **[Test 2](https://github.com/Stassras/softcorp-test)**
