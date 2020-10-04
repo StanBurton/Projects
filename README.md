@@ -32,13 +32,6 @@
 >  
 >![YoutubeSearchScreen](./screens/YoutubeSearchScreen.png)  
 > - **[Link to repository](https://github.com/Stassras/Youtube-search)**  
-
-## Simple-chat   
-  
-> **Simple chat made on react and bootstrap with WebSocket**  
->  
->![SimpleChatScreen](./screens/SimpleChatScreen.png)  
-> - **[Link to repository](https://github.com/Stassras/Simple-chat)**
   
 ## Different test items from IT companies.  
   
