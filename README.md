@@ -25,13 +25,6 @@
 >  
 >![TodoListScreen](./screens/TodoListScreen.png)  
 > - **[Link to repository](https://github.com/Stassras/Todo-list)**  
-
-## Youtube-search   
-  
-> **A simple example of a search engine on YouTube, using youtube API and pure JS**  
->  
->![YoutubeSearchScreen](./screens/YoutubeSearchScreen.png)  
-> - **[Link to repository](https://github.com/Stassras/Youtube-search)**  
   
 ## Different test items from IT companies.  
   
