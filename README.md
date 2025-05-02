@@ -12,13 +12,6 @@
 >![PiskelCloneScreen](./screens/PiskelCloneScreen.png)  
 > - **[Link to repository](https://github.com/Stassras/Piskel-Clone)**  
 
-## Culture-Portal   
-  
-> **A cultural portal about Belarusian directors made by a team with my friends. Made using React, gatsby, bootstrap and LESS.**  
->  
->![CulturePortalScreen](./screens/CulturePortalScreen.png)  
-> - **[Link to repository](https://github.com/Stassras/Culture-portal)**  
-
 ## Todo-list   
   
 > **Simple TodoList developed on React and Bootstrap + ES6 / ES7**  
